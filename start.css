@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo&display=swap');
+input{
+    font-size: 50px;
+    margin-top: 500px;
+    margin-left: 600px;
+    height: 50px;
+    width: 800px;
+    background-color:pink;
+}
+button{
+    font-size: 30px;
+    margin-top: 50px;
+    margin-left: 950px;
+    height: 50px;
+    width: 100px;
+    background-color: lightskyblue;
+    color: cornsilk;
+    border: 0px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: darkblue;
+}
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}

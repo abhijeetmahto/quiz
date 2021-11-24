@@ -1,0 +1,114 @@
+//timer
+/*let sec = 15;
+let time = setInterval(myTimer, 1000);
+function myTimer() {
+    document.getElementById('timer').innerHTML = sec + "sec left";
+    sec--;
+    if (sec == -1) {
+        clearInterval(time);
+        alert("Time out!! :(");
+    }
+}*/
+
+
+
+const questions = [
+    {
+    question: "1. Which of the following languages is more suited to a structured program?",
+    answers: {
+        a: "PL/1",
+        b: "FORTRAN",
+        c: "BASIC",
+        d: "PASCAL"
+    },
+    correct: "d"
+},
+{
+    question: "2.Which of the following is the 1's complement of 10?",
+    answers: {
+        a: "01",
+        b: "110",
+        c: "11",
+        d: "10"
+    },
+    correct: "a"
+},
+{
+    question: "3.The brain of any computer system is",
+    answers: {
+        a: "ALU",
+        b: "Memory",
+        c: "CPU",
+        d: "None of The Above"
+    },
+    correct: "c"
+},
+{
+    question: "4.Which part interprets program instructions and initiate control operations.",
+    answers: {
+        a: "Input",
+        b: "Storage Unit",
+        c: "Logic Unit",
+        d: "Control Unit"
+    },
+    correct: "d"
+},
+{
+    question: "5.The binary system uses powers of",
+    answers: {
+        a: "2",
+        b: "10",
+        c: "8",
+        d: "16"
+    },
+    correct: "a"
+}/*,
+{
+    question: "6. A computer program that converts assembly language to machine language is",
+    answers: {
+        a: "Compiler",
+        b: "Interpreter",
+        c: "Assembler",
+        d: "None of The Above"
+    },
+    correct: "c"
+},
+{
+    question: "7.You can use C++ as a procedural, as well as an object-oriented, language",
+    answers: {
+        a: "True",
+        b: "False",
+    },
+    correct: "a"
+},
+{
+    question: "8. Which of the following type of class allows only one object of it to be created?",
+    answers: {
+        a: "Virtual Class",
+        b: "Abstract Class",
+        c: "Singleton Class",
+        d: "Friend Class"
+    },
+    correct: "c"
+},
+{
+    question: "9. Which of the following is not a type of constructor?",
+    answers: {
+        a: "Copy Constructor",
+        b: "Friend Constructor",
+        c: "Default Constructor",
+        d: "Parameterized Constructor"
+    },
+    correct: "b"
+},
+{
+    question: "10. Which of the following concepts means wrapping up of data and functions together?",
+    answers: {
+        a: "Abstraction",
+        b: "Encapsulation",
+        c: "Inheritance",
+        d: "Polymorphism"
+    },
+    correct: "b"
+}*/
+];
